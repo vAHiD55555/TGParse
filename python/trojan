@@ -161,7 +161,6 @@ trojan://Aimer@192.200.160.35:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls
 trojan://Aimer@199.34.228.178:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://Aimer@27.50.48.189:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇭🇰
 trojan://Aimer@27.50.48.189:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#HK 🇭🇰 | @v2xay
-trojan://Aimer@27.50.48.189:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#[🏁]t.me/ConfigsHub
 trojan://Aimer@45.80.209.25:81?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#IR-@Tunder_vpn
 trojan://Aimer@5.182.84.52:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇷🇺
 trojan://Aimer@77.232.140.7:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=epmf.ambercc.filegear-sg.me&type=ws&sni=epmf.ambercc.filegear-sg.me#@TeLPJ+تمام+نت+ها+🟦🟨
@@ -290,7 +289,6 @@ trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🛡️ @FreakConfig
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
-trojan://bpb-trojan@92.60.74.143:443?allowInsecure=1&sni=bpb.my79801.com#[🏁]t.me/ConfigsHub
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
 trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
@@ -299,6 +297,7 @@ trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=customer-185-231-206-12.stark-industries.solutions#@Hope_Net-join-us-on-Telegram
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=customer-185-231-206-12.stark-industries.solutions#t.me/entryNET/config=1840077745547168
 trojan://c623a730-48a2-11f0-b6c7-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🫠
+trojan://caacabb-cbaa-caba-adcb-cbabacabccba@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://cbaabca-baca-abac-bdac-bcaccabaabbc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://cd7fa4a0-4684-11f0-a8d1-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray😍
 trojan://cdb2a960-3f0f-11f0-83ae-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩷

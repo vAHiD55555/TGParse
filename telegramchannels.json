@@ -29,6 +29,7 @@
     "daily_configs",
     "eliv2ray",
     "entrynet",
+    "erfwp",
     "evay_vpn",
     "expressvpn_420",
     "external_net",
@@ -46,9 +47,9 @@
     "geek_spot",
     "ghalagyann",
     "ghalagyann2",
-    "green_wpn",
     "hddify",
     "helix_servers",
+    "hibyevpnn",
     "icv2ray",
     "ip_cf",
     "iran_v2ray1",
@@ -74,6 +75,7 @@
     "net_ssh",
     "netifyvpn",
     "networld_vpn",
+    "noforcedheaven",
     "npvv2rayfilter",
     "nufilter",
     "proxy_mtm",
@@ -122,6 +124,5 @@
     "vpnjey",
     "vpnlime",
     "vpnserverrr",
-    "xpnteam",
-    "zedbaz_vpn"
+    "xpnteam"
 ]

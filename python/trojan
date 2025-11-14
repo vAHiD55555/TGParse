@@ -13,6 +13,7 @@ trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerT
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
+trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#r♡ya
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#r♡ya
 trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&fp=chrome&type=ws&sni=joss.dus.biz.id#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3

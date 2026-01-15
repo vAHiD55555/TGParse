@@ -362,7 +362,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#@v2r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3RLQTRuN0txQUZDSnh6dzhjdU0w@138.68.6.88:443#🇺🇸US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRWdpZnpCakk5VFdHWnp6T1U2WE9n@147.45.178.24:56259#🇩🇪 telegram@ISVvpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYb1lyckVmWll4eEhMM0FJ@a1.45s6e224gdr.shop:16985#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcG5STDlmNDZUbFF2MmxlY1ZIbWc3@213.111.142.140:8443#@Arshiavpn12 جوین شو قطع نشی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRYRDRwb2p2b3JtVldSaUhnSWZ2@83.217.9.17:25232#https://t.me/v2raynplus |🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#WiFi_7--@V2rayAlpha
@@ -915,7 +914,6 @@ vless://051de884-d4d2-4b59-b740-a10795c78ad2@hxogg.kneti.ir:3939?security=realit
 vless://053dd74f-ad78-4085-8f0d-2f40cf09041b@V2ngnet.huqpmfood.ir:4455?mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @v2ngnet
 vless://05509edc-ade7-4f98-8339-311eca0693ae@nowornever.vigilante.ir:443?mode=gun&security=reality&encryption=none&pbk=iN23geI6keBSChFWsuoMlJ3-o1BqesBaGlDvZTLeIx0&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2048&sni=DigiKala.com#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs ☄️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.233.188.145:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1854264787792545
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.145.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇨🇦]t.me/ConfigsHub
 vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@Arshiavpn12 جوین شو قطع نشی
 vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://056d677f-00ed-47ec-bbda-fcc8d1d1284f@45.94.213.139:4040?security=none&type=tcp&headerType=&path=&host=#Meli Emergency
@@ -2495,7 +2493,6 @@ vless://47e58d7e-87df-435f-9c64-e5c375d30c54@fastly.aireacondicionadoalicante.eu
 vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#@Arshiavpn12 جوین شو قطع نشی
 vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#All_42--@V2rayAlpha
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.225:443?security=tls&sni=xing.ylks.xyz&type=ws&path=/#t.me/entryNET/config=1854242138886346
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=xinf.ylks.xyz&type=ws&path=/?proxyip#[🇺🇸]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?security=tls&sni=xing.ylks.xyz&type=ws&path=/?proxyip#t.me/entryNET/config=1854166640820313
 vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo&sid=07e904766d29b958#🔑72@oneclickvpnkeys
 vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=/&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#✅سرورهایبیشتردرکانال:prrofile_purple@✅

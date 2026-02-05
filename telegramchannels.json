@@ -46,7 +46,6 @@
     "expressvpn_420",
     "external_net",
     "farah_vpn",
-    "fergalvpnmod",
     "filembad",
     "fnet00",
     "foxnt",
@@ -103,6 +102,7 @@
     "v2line",
     "v2raxx",
     "v2ray_alpha",
+    "v2ray_configs_pool",
     "v2ray_fark",
     "v2ray_proxy_npv",
     "v2ray_rolly",
@@ -124,6 +124,5 @@
     "wiki_tajrobe",
     "wirexnet",
     "yamyamproxy",
-    "zdyz2",
     "zendanvpn"
 ]

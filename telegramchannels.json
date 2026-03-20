@@ -64,6 +64,7 @@
     "customv2ray",
     "daily_configs",
     "dalton_ping",
+    "digi20200vpn",
     "digiv2ray",
     "directvpn",
     "disvpn",
@@ -109,6 +110,7 @@
     "hibyevpnn",
     "hiddify_nexttt",
     "hispsyccho",
+    "hitechvplus",
     "hopev2ray",
     "horn_proxy",
     "hqv2rayng",
@@ -243,7 +245,6 @@
     "v2rayng_proxymelli",
     "v2rayng_saz",
     "v2rayng_spdnet",
-    "v2rayngcloud",
     "v2rayngcustom",
     "v2rayngseven",
     "v2rayngzendegimamad",
@@ -287,6 +288,5 @@
     "wiki_tajrobe",
     "winstnchannel",
     "worlds_cryptoo",
-    "yamyamproxy",
-    "zdyz2"
+    "yamyamproxy"
 ]

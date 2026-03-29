@@ -52,6 +52,7 @@
     "daily_configs",
     "dalton_ping",
     "digiv2ray",
+    "directvpn",
     "disvpn",
     "dsr_tm",
     "duckvp_n",
@@ -80,7 +81,6 @@
     "freev2rng",
     "freevlessvpn",
     "freezeroo",
-    "fz3rx",
     "gh_v2rayng",
     "ghalagyann",
     "golestan_vpn",
@@ -121,7 +121,6 @@
     "mtproto_proserver",
     "n3twrk",
     "netmelli15",
-    "netmellianti",
     "netroovpn12",
     "netshekan99",
     "netzonenews",
@@ -239,5 +238,6 @@
     "white_configs",
     "wiki_tajrobe",
     "winstnchannel",
+    "xixv2ray",
     "yamyamproxy"
 ]

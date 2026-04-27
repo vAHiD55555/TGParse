@@ -80,6 +80,7 @@
     "fnet00",
     "foxnt",
     "freakconfig",
+    "free2config",
     "free_npv",
     "free_v2ray_npv",
     "freeconfigforyou",
@@ -233,7 +234,6 @@
     "v2rayng3",
     "v2rayng_fars",
     "v2rayng_fast",
-    "v2rayng_madam",
     "v2rayng_proxymelli",
     "v2rayng_spdnet",
     "v2rayngcloud",
@@ -274,5 +274,6 @@
     "zed_netmeli",
     "zel2ovpn",
     "zeos_vpn",
+    "zero_tunnel",
     "zhw_x_club"
 ]

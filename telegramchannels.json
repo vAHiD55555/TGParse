@@ -172,6 +172,7 @@
     "qara_atayi",
     "raiv2mmr",
     "rk_vps",
+    "rosecommunity",
     "rzchanel1",
     "sheriffnet",
     "shh_proxy",
@@ -197,7 +198,6 @@
     "unnurmal",
     "unsdeep",
     "v2ary_nv",
-    "v2configlab",
     "v2freehub",
     "v2ngfast",
     "v2nodes",
@@ -219,6 +219,7 @@
     "v2raybaaz",
     "v2raydia",
     "v2rayng3",
+    "v2rayng_cafe",
     "v2rayng_fast",
     "v2rayng_ip",
     "v2rayng_spdnet",
@@ -261,5 +262,6 @@
     "yamyamproxy",
     "zed_netmeli",
     "zfdvckug",
-    "zhw_x_club"
+    "zhw_x_club",
+    "zorexvpn"
 ]

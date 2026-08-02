@@ -46,6 +46,7 @@
     "configprxy",
     "configshub",
     "configx2ray",
+    "custom_config",
     "customvpnserver",
     "daily_configs",
     "digiv2ray",
@@ -120,11 +121,11 @@
     "networld_vpn",
     "nitrustore",
     "nufilter",
-    "nyxmod",
     "oneclickvpnkeys",
     "outline_ir",
     "outline_vpn",
     "pardazeshvpn",
+    "parsa_configvpn",
     "parsashonam",
     "ppal03",
     "privatevpns",
@@ -222,6 +223,5 @@
     "wancloudfa",
     "xsfilterrnet",
     "xsv2ray",
-    "z4bax",
     "zdyz2"
 ]

@@ -43,6 +43,7 @@
     "configfori",
     "configforvpn",
     "configprxy",
+    "configshub",
     "configv2rayng",
     "coonfigcloud",
     "cpy_teel",
@@ -195,7 +196,6 @@
     "v2fetch",
     "v2gaf",
     "v2mystery",
-    "v2nexvip",
     "v2ngfast",
     "v2ngnet",
     "v2nodes",
@@ -235,6 +235,7 @@
     "vmessorg",
     "vmessprotocol",
     "volexproxy",
+    "vpn2freenet",
     "vpn4ir_1",
     "vpn_click",
     "vpn_ete",
@@ -262,5 +263,6 @@
     "yektacloud",
     "zdyz2",
     "zed_netmeli",
+    "zibanabz",
     "zyzzzoao"
 ]
